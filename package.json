@@ -64,7 +64,6 @@
     "webpack": "^5.72.1"
   },
   "peerDependencies": {
-    "@vue/composition-api": "^1.0.5",
     "echarts": "^5.1.2",
     "vue": "^2.6.12 || ^3.1.1"
   },
